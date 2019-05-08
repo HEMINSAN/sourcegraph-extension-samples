@@ -29,7 +29,7 @@ const highlightMatchingLines = (text, token) => {
           ({
             range: new sourcegraph.Range(
               new sourcegraph.Position(i, 0),
-              new sourcegraph.Position(i, 0)
+              new sourcegraph.Position(i+1, 0)
             ),
             light: {
               backgroundColor: "khaki"

@@ -2,7 +2,7 @@
 
 A [Sourcegraph extension](https://docs.sourcegraph.com/extensions) for highlighting lines matching the currently hovered token on GitHub, Sourcegraph, and other tools.
 
-[**➕ Add to Sourcegraph**](https://sourcegraph.com/extensions/chris/token-highlights)
+[**➕ Add to Sourcegraph**](https://sourcegraph.com/extensions/lst9391/highlight_words)
 
 **Note:** Using this extension on private code in the [Sourcegraph browser extension](https://docs.sourcegraph.com/integration/browser_extension) requires a [self-hosted Sourcegraph instance](https://docs.sourcegraph.com/#quickstart) (because it needs access to the contents of the current file).
 
